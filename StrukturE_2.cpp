@@ -34,7 +34,7 @@ int main(){
     cout << "\n NIM : " << Mhs.NIM;
     cout << "\n Nama : " << Mhs.Nama;
     cout << "\n Alamat : "; 
-    cout << "\n \t Desa : " << Mhs.Alamat.Desa;
-    cout << "\n \t Kota : " << Mhs.Alamat.Kota;
+    cout << "\n Desa : " << Mhs.Alamat.Desa;
+    cout << "\n Kota : " << Mhs.Alamat.Kota;
     cout << "\n Umur : " << Mhs.umur;
 }
