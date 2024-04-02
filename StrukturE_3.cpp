@@ -30,4 +30,12 @@ int main()
 
     cout << "Umur Mahasiswa :";
     cin >> Mhs.umur;
+
+    cout << endl;
+    cout << "\n NIM : " << Mhs.NIM;
+    cout << "\n Nama : " << Mhs.Nama;
+    cout << "\n Alamat : ";
+    cout << "\n Desa : " << Mhs.Alamat.Desa;
+    cout << "\n Kota : " << Mhs.Alamat.Kota;
+    cout << "\n Umur : " << Mhs.umur;
 }
