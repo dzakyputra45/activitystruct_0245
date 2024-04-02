@@ -18,4 +18,11 @@ int main(){
     cin >> Mhs.Alamat;
     cout << "Umur Mahasiswa :";
     cin >> Mhs.umur;
+
+
+    cout << endl;
+    cout << "\n NIM : " << Mhs.NIM;
+    cout << "\n Nama : " << Mhs.Nama;
+    cout << "\n Alamat : " << Mhs.Alamat;
+    cout << "\n Umur : " << Mhs.umur;
 }
